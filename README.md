@@ -57,11 +57,11 @@
 ## 📦 Loadstring
   Universe O Guryx'd
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/2553156/main/Universal-Script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/2553156/main/Universe-Guryxd.lua"))()
 ```
   Universe O Guryx'd (Aimlock)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/2553156/main/Aimlock.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/2553156/main/UniverseAimlock.lua"))()
 ```
 
 ---
