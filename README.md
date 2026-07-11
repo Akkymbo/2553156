@@ -55,9 +55,13 @@
 ---
 
 ## 📦 Loadstring
-
+   Universe O Guryx'd
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU-USUARIO/Hyper-Exploit/main/main.lua"))()
+loadstring(game:HttpGet(""))()
+```
+   Aimlock
+```lua
+loadstring(game:HttpGet(""))()
 ```
 
 ---
