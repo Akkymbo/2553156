@@ -30,8 +30,8 @@
 |---------|-----------|
 | **Fly** | Speed Fly ajustavel |
 | **Noclip** | Atravesse qualquer objeto |
-| **Speed** | Velocidade ajustável de 1 a 200 |
-| **Inf Jump** | Pulos infinitos sem parar |
+| **Speed** | Velocidade ajustável |
+| **Inf Jump** | Pulos infinitos |
 
 ---
 
