@@ -61,7 +61,7 @@ loadstring(game:HttpGet(""))()
 ```
    Aimlock
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/2553156/main/Aimlock.lua"))()
 ```
 
 ---
